@@ -1,0 +1,9 @@
+INDEX VERSION 1.134+C:\Users\ADMIN\Desktop\Vote\.metadata\.plugins\org.eclipse.jdt.core
+4079640989.index
+3529462227.index
+3320273398.index
+3022405818.index
+3450120716.index
+2878192110.index
+1865797976.index
+3413725848.index
